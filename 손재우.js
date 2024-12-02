@@ -7,3 +7,11 @@
         resultDivinnerText = "좋아하는 과일은: " + select;
     });
 </script>
+
+
+
+
+
+
+
+
