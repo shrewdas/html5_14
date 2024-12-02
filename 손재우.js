@@ -6,12 +6,3 @@
         let select = selectBox.options[selectBox.selectBox.selectedIndex].value;
         resultDivinnerText = "좋아하는 과일은: " + select;
     });
-</script>
-
-
-
-
-
-
-
-
